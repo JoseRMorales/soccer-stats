@@ -2,7 +2,7 @@ name: soccer-stats
 
 services:
   soccer-stats:
-    image: ghcr.io/josermorales/soccer-stats:main
+    image: ghcr.io/josermorales/soccer-stats:latest
     container_name: soccer-stats
     ports:
       - "3000:3000"
