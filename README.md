@@ -1,8 +1,8 @@
-# Soccer Stats
-
-## Migrated
+# Migrated
 
 This project has been migrated to another backend (Appwrite). The updated project is https://github.com/JoseRMorales/soccer-stats-evo/
+
+# Soccer Stats
 
 A simple web app to track soccer stats for a local seven-a-side team.
 
